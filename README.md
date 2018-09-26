@@ -1,6 +1,6 @@
 # nuxtjs-starter
 
-> The starter for Nuxt.js project with feathers
+> The starter project for Nuxt.js version 2.0.0 with feathers
 
 ## Build Setup
 

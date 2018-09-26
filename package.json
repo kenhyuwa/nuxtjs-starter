@@ -1,7 +1,7 @@
 {
   "name": "nuxtjs-starter",
   "version": "1.0.0",
-  "description": "The starter for Nuxt.js project with feathers",
+  "description": "The starter project for Nuxt.js version 2.0.0 with feathers",
   "author": "ken",
   "private": true,
   "scripts": {
